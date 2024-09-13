@@ -1,3 +1,2 @@
-Sepolia_ETH_RPC_URL:- https://eth-sepolia.public.blastapi.io
-
+Sepolia_ETH_RPC_URL:- https://rpc.sepolia.org
 Linea_ETH_RPC_URL:- https://rpc.sepolia.linea.build
